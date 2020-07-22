@@ -2,7 +2,7 @@
   "name": "uikit-button",
   "version": "1.0.1",
   "private": true,
-  "main": "index.js",
+  "main": "index.jsx",
   "dependencies": {
     "react": "^16.13.1"
   }
